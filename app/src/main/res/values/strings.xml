@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageR</string>
+    <string name="content">content</string>
+    <string name="todo">todo</string>
+    <string name="upload_server">Upload Server</string>
+    <string name="clear">Clear</string>
+    <string name="enter_number">Enter Number</string>
+</resources>
